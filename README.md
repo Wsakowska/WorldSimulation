@@ -1,7 +1,7 @@
 # World Simulation
 
 ## Project Description
-This project is a simulation of a flat world inhabited by various organisms such as sheep, grass, lynxes, and antelopes. Each organism has specific attributes like `power`, `initiative`, `liveLength`, and special behaviors. Additionally, there is a "plague mode" that cuts the lifespan of existing organisms in half for two turns.
+This project is a simulation of a flat world inhabited by various organisms such as sheep, grass, lynxes, and antelopes. Each organism has specific attributes like `power`, `initiative`, `liveLength`, and special behaviors. Additionally, there is a "plague mode" that cuts the lifespan of existing organisms in half for two turns. Originally created in 2024.
 
 ## Features
 - **Lynx** (`power = 6`, `initiative = 5`, `liveLength = 18`, `sign = 'R'`): a predator with standard animal behavior.
